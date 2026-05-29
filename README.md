@@ -32,3 +32,5 @@ Almost like a natural continuation of the Discoveries—after the maritime horiz
 Of course, there was a lot of baroque spectacle, fantasy, and exaggeration. But many great technological revolutions begin exactly like that: at first, they seem like impossible dreams. Modern aviation itself was born from centuries of strange designs, failed prototypes, and ridiculed visionaries.
 
 Therefore, even if the Passarola didn't fly as in the engravings, it continues to have enormous value: not only technical, but cultural and emotional. It shows a moment when people dared to imagine something bigger than the known world.
+
+
