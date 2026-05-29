@@ -1,6 +1,7 @@
 # A-passarola
 
 
+
 Yes — and that is precisely one of the most fascinating aspects of the story of Bartolomeu de Gusmão's Passarola. Even if the device never worked as imagined in the most ambitious designs, the simple fact that the Portuguese court took the idea seriously enough to attend public demonstrations shows a very unusual intellectual openness for the time.
 The priest and inventor Bartolomeu de Gusmão presented King João V with experiments using small hot air balloons in 1709. There are records of demonstrations at the court in Lisbon, where small models rose a few meters using heated air. This happened decades before the famous flights of the brothers Joseph-Michel Montgolfier and Jacques-Étienne Montgolfier in 1783.
 The most important thing historically is to separate two things:
