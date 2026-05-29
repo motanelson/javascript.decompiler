@@ -36,3 +36,4 @@ Of course, there was a lot of baroque spectacle, fantasy, and exaggeration. But 
 Therefore, even if the Passarola didn't fly as in the engravings, it continues to have enormous value: not only technical, but cultural and emotional. It shows a moment when people dared to imagine something bigger than the known world.
 
 
+
