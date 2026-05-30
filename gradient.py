@@ -31,8 +31,11 @@ class myapps:
                 gg = c
             if bcolor:
                 bb = c
-
-            cor = f"#{rr:02X}{gg:02X}{bb:02X}"
+            ggg="00"+hex(gg).replace("0x","")
+            bbb="00"+hex(bb).replace("0x","")
+            rrr="00"+hex(rr).replace("0x","")
+            cor="#"+bbb[-2:]+ggg[-2:]+rrr[-2:]
+            #cor = f"#{rr:02X}{gg:02X}{bb:02X}"
 
             self.canvas.create_rectangle(
                 int(a),
